@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Pallav <img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
-<h4 align="center" margin="0px">I am a Aspiring Full Stack Developer from Bhilwara (Rajasthan).</h4> <h4 align="center" margin="0px">Currently I am pursuing full stack developer course from Masai School</h4> <h4>I have completed B.tech in Information Technology Branch from MLV Textile & Engineering College , Bhilwara</h4> <h4 align="center" margin="0px">I love to build beautiful or user friendly products. </h4> <h4 align="center" margin="0px"> I love to play cricket and spend time on internet to learn new things ..</h4>
+<h4 align="center" margin="0px">I am a Aspiring Full Stack Developer from Bhilwara (Rajasthan).</h4> <h4 align="center" margin="0px">Currently I am pursuing full stack developer course from Masai School</h4> <h4 align="center" margin="0px">I have completed B.tech in Information Technology Branch from MLV Textile & Engineering College , Bhilwara</h4> <h4 align="center" margin="0px">I love to build beautiful or user friendly products. </h4> <h4 align="center" margin="0px"> I love to play cricket and spend time on internet to learn new things ..</h4>
 
 <h2 align="center">console.log("Hello World !!");</h2>
 <img align="right" alt="Coding" width="350px" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
